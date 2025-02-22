@@ -53,6 +53,7 @@ ruby:3.3-alpine⁠
 ruby:3.3.7-alpine3.20
 ruby:3.3-alpine3.20⁠
 rails:5.0.1
+
 rails:5.0
 rails:5
 rails:latest
